@@ -1,0 +1,24 @@
+{
+  "name": "com.RatanSoni.animationdenoiser",
+  "version": "1.0.0",
+  "displayName": "Animation Denoiser",
+  "description": "A Unity Editor tool for smoothing noisy animation curves using spline fitting",
+  "unity": "2019.4",
+  "keywords": [
+    "animation",
+    "curves",
+    "smoothing",
+    "denoiser",
+    "motion-capture",
+    "editor-tool"
+  ],
+  "author": {
+    "name": "Ratan Soni",
+    "url": "https://github.com/RatanSoni"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RatanSoni/AnimationDenoiser.git"
+  }
+}
